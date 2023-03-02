@@ -1,6 +1,6 @@
 # Welcome to my humble acode✌💻
 ### Desire to C my arcane cipher collection, doest thou?👀
-### Beware of snakes🐍 everywhere
+### Beware of pythons🐍 everywhere
 <!--
 **MX1MR41/MX1MR41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
