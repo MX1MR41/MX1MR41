@@ -8,7 +8,6 @@
 - 📫 How to reach me: mx1.mr41@gmail.com
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
