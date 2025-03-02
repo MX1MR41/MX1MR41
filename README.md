@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">A Software Engineer</h3>
 <h3 align= "center">Welcome to my humble acode ✌💻</h3>
 
 - 🔭 A2SVian
